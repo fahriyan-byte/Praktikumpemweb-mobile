@@ -1,4 +1,6 @@
 # Praktikumpemweb-mobile
+# M.Fahriyan Mahmudi
+# 193020503018
 Modul I merupakan Modul mengenai PHP, dimana diminta untuk memahami dasar-dasar pemrograman PHP yang biasa digunakan pada umumnya, lalu membuat program sederhana menggunakan bahasa pemrograman PHP.
 
 Modul II merupakan Modul mengenai Form Handling, dimana diminta untuk mampu membuat handling yang mampu mengolah data dari form HTML, dan mampu membuat batasan-batasan untuk menangani inputan dari form HTML.
